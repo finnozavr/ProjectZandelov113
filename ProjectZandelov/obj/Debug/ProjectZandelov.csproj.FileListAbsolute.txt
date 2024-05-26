@@ -1,0 +1,7 @@
+C:\VisualStudio\ProjectZandelov\bin\Debug\ProjectZandelov.exe.config
+C:\VisualStudio\ProjectZandelov\bin\Debug\ProjectZandelov.exe
+C:\VisualStudio\ProjectZandelov\bin\Debug\ProjectZandelov.pdb
+C:\VisualStudio\ProjectZandelov\obj\Debug\ProjectZandelov.csproj.AssemblyReference.cache
+C:\VisualStudio\ProjectZandelov\obj\Debug\ProjectZandelov.csproj.CoreCompileInputs.cache
+C:\VisualStudio\ProjectZandelov\obj\Debug\ProjectZandelov.exe
+C:\VisualStudio\ProjectZandelov\obj\Debug\ProjectZandelov.pdb
